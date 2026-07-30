@@ -49,7 +49,7 @@
         "title": "YouTube Long-Form",
         "subtitle": "Narrative Editing",
         "icon": "fa-clapperboard",
-        "description": "Structured storytelling with clean pacing, B-roll layering and sound design for long-form YouTube content."
+        "description": "Structured storytelling with clean pacing, B-roll layering and sound design for long-form YouTube content, include Natok, Short-films, action fight video"
       },
       {
         "id": "commercial",
@@ -67,7 +67,7 @@
       "role": "Motion Graphics",
       "category": "Commercial Ads",
       "duration": "00:15",
-      "thumbnail": "/images/thumbnails/p1.svg",
+      "thumbnail": "/images/thumbnails/apple.jpg",
       "driveId": "1xxWiMJA11dTRrpwKfHacI7FSaiAkRga0"
     },
     {
@@ -76,7 +76,7 @@
       "role": "Motion Graphics",
       "category": "Commercial Ads",
       "duration": "00:20",
-      "thumbnail": "/images/thumbnails/p2.svg",
+      "thumbnail": "/images/thumbnails/Starbucks.jpg",
       "driveId": "1YCIuBh55hZPWBsfoaLRXjkMKmZYzOvA2"
     },
     {
@@ -85,7 +85,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:55",
-      "thumbnail": "/images/thumbnails/p3.svg",
+      "thumbnail": "/images/thumbnails/Sourov X Suvra Wedding.jpg",
       "driveId": "1f6fLoDwAn9qxvnvfbG6g22ganThNT5da"
     },
     {
@@ -94,7 +94,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:48",
-      "thumbnail": "/images/thumbnails/p3.svg",
+      "thumbnail": "/images/thumbnails/Sourov X Suvra.jpg",
       "driveId": "11TbVz1Dd3tgCNdMJh72WGkXttYIHJmJm"
     },
     {
@@ -103,7 +103,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "05:24",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Oyshi Post wedding.jpg",
       "driveId": "1lLq5-v6gpmaAaJ0QM01ydGA2he8oCp3n"
     },
     {
@@ -112,7 +112,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:04",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Sahoshi.jpg",
       "driveId": "14obo3mnaK4hDMF1TJDIKUshsrzjKfQs5"
     },
     {
@@ -121,7 +121,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:07",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Ruponti.jpg",
       "driveId": "1RxMwbyMlFImEh7SPac1T6mrNuMu3ArqS"
     },
     {
@@ -130,7 +130,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:25",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Oyshi Holud.jpg",
       "driveId": "1JQ8ZOJLCzEJmI2Hm-ukQC3lZxa8XNhLe"
     },
     {
@@ -139,7 +139,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:12",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Nabia.jpg",
       "driveId": "1wjQH8Er8BOPDbszbGGhTaxQ8QVR8mj8s"
     },
     {
@@ -148,7 +148,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:53",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Mahadi.jpg",
       "driveId": "1ueluy_efuGT67TKNDadCXaFATlwpIUUA"
     },
     {
@@ -157,7 +157,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:02",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Anis X Sadia.jpg",
       "driveId": "1qOrPHpaOqy1fSU8tBms0qcMYkoZmeMMB"
     },
     {
@@ -166,7 +166,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:43",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Nodi X Rahi.jpg",
       "driveId": "1MfV24J6pndjwks-l_HTDMYU_2nHQc4Gm"
     },
     {
@@ -175,7 +175,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "03:15",
-      "thumbnail": "/images/thumbnails/p4.svg",
+      "thumbnail": "/images/thumbnails/Sobuj X Youlin .jpg",
       "driveId": "1_TG79Tg1tad0TyBxgkNoYfGoBdb4pLLe"
     },
     {
@@ -184,7 +184,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:08",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Sadi.jpg",
       "driveId": "1KsUJQf8wd94E1MLdmJVgsmdhnp9wvQS3"
     },
     {
@@ -193,7 +193,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:24",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Sazzad X Maria.jpg",
       "driveId": "1c6uDvJ825HlkBvX2zTOve__Gx5GGqvup"
     },
     {
@@ -202,7 +202,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:42",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Tasin.jpg",
       "driveId": "1AyCnw7Bk4WlTEwXBnuR00P-BrHmPj790"
     },
     {
@@ -211,7 +211,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:43",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Shifat.jpg",
       "driveId": "1nMM97gEGn-mTKMzGxx1FycCXIntFTirC"
     },
     {
@@ -220,8 +220,62 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:56",
-      "thumbnail": "/images/thumbnails/p5.svg",
+      "thumbnail": "/images/thumbnails/Sorna.jpg",
       "driveId": "1MNFVmcFf_xj-KbmQHKeFLowqCqfj1CmZ"
+    },
+    {
+      "id": "p19",
+      "title": "Viking Squad",
+      "role": "Editing, Color Grading, story",
+      "category": "Action video",
+      "duration": "02:39",
+      "thumbnail": "/images/thumbnails/VikingSquad.jpg",
+      "driveId": "1Y-ktev2MRRfNFu4ilUuDOxsocPLKHIr6"
+    },
+    {
+      "id": "p20",
+      "title": "Roide Aila Ga Juraite",
+      "role": "Editing, Color Grading, Cinematography",
+      "category": "Cinematgraphy",
+      "duration": "01:13",
+      "thumbnail": "/images/thumbnails/Roide aila.jpg",
+      "driveId": "1dRIy8JkUl-enSTTGHqndhkBl12fPQxfl"
+    },
+    {
+      "id": "p21",
+      "title": "বাংলার তাঁতশাড়ি",
+      "role": "Editing, Color Grading, Cinematography",
+      "category": "Reels",
+      "duration": "01:13",
+      "thumbnail": "/images/thumbnails/tat.jpg",
+      "driveId": "1z8UfK0nafvlwCzJSje03156Ywythnkqf"
+    },
+    {
+      "id": "p22",
+      "title": "গ্রাম বাংলা",
+      "role": "Editing, Color Grading",
+      "category": "Reels",
+      "duration": "01:00",
+      "thumbnail": "/images/thumbnails/Grambangla.jpg",
+      "driveId": "1-8MfRec19TZi3_kI4Vgy9FIp47bfMNiC"
+    },
+    {
+      "id": "p23",
+      "title": "SPI-25",
+      "role": "Editing, Color Grading",
+      "category": "Rag Day",
+      "duration": "08:36",
+      "thumbnail": "/images/thumbnails/SPI-25.jpg",
+      "driveId": "1GpHre1tWuEjaq5JCv4vkqF4CH-CZ-0Q6"
+    },
+    {
+      "id": "p24",
+      "title": "SPI Civil-25",
+      "role": "Editing, Color Grading",
+      "category": "Rag Day",
+      "duration": "03:31",
+      "thumbnail": "/images/thumbnails/Civil SPI-25.jpg",
+      "driveId": "1Hddv6dk7FDRkQiU32fLApmFM3JJsI82w"
     }
   ],
   "education": [
