@@ -1,0 +1,427 @@
+{
+  "profile": {
+    "name": "Jahidul Islam Jannat",
+    "title": "Video Editor & Visual Storyteller",
+    "domain": "Jahidul.com.bd",
+    "location": "Sirajganj, Bogura, Bangladesh",
+    "phone": "+8801518610808",
+    "phoneDisplay": "+880 1518 610 808",
+    "email": "onlinejahidul333@gmail.com",
+    "bloodGroup": "B+",
+    "profileImage": "/images/profile.png",
+    "coverImage": "/images/hero-cover.png"
+  },
+  "hero": {
+    "headlinePrefix": "Through the lens:",
+    "headlineAccent": "visions beyond your imagination.",
+    "subheadline": "Video editing, color grading and sound design \u2014 all crafted inside DaVinci Resolve Studio.",
+    "subheadline": "Let’s create something amazing together.",
+    "ctaPrimary": { "label": "View Projects", "target": "portfolio" },
+    "ctaSecondary": { "label": "Contact Me", "target": "contact" }
+  },
+  "about": {
+    "eyebrow": "About",
+    "heading": "Behind the timeline",
+    "bio": "Passionate Video Editor dedicated to converting raw footage into high-quality visual content. Editing, storytelling, color grading, and audio post-production \u2014 all self-taught through hands-on online learning. Currently pursuing a CSE degree at BUBT while delivering creative editing solutions for digital platforms."
+  },
+  "skills": {
+    "eyebrow": "Skills & Tools",
+    "heading": "One suite. Every discipline.",
+    "masterTool": {
+      "name": "DaVinci Resolve Studio",
+      "tagline": "One timeline. Every discipline, done professionally.",
+      "highlights": [
+        { "label": "Visual Storytelling", "icon": "fa-film" },
+        { "label": "Sound Design", "icon": "fa-microphone-lines" },
+        { "label": "Color Grading", "icon": "fa-droplet" }
+      ]
+    },
+    "categories": [
+      {
+        "id": "short-form",
+        "title": "Short-Form Content",
+        "subtitle": "Reels & Shorts",
+        "icon": "fa-bolt",
+        "description": "Fast-paced cuts, punchy captions and trend-ready pacing built for retention on Reels, Shorts and TikTok."
+      },
+      {
+        "id": "long-form",
+        "title": "YouTube Long-Form",
+        "subtitle": "Narrative Editing",
+        "icon": "fa-clapperboard",
+        "description": "Structured storytelling with clean pacing, B-roll layering and sound design for long-form YouTube content."
+      },
+      {
+        "id": "commercial",
+        "title": "Commercial Ads",
+        "subtitle": "Brand Films",
+        "icon": "fa-bullhorn",
+        "description": "Polished, on-brand cuts with precise color grading built to convert across paid and organic campaigns."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Apple Ads",
+      "role": "Motion Graphics",
+      "category": "Commercial Ads",
+      "duration": "00:15",
+      "thumbnail": "/images/thumbnails/p1.svg",
+      "driveId": "1xxWiMJA11dTRrpwKfHacI7FSaiAkRga0"
+    },
+    {
+      "id": "p2",
+      "title": "Starbucks",
+      "role": "Motion Graphics",
+      "category": "Commercial Ads",
+      "duration": "00:20",
+      "thumbnail": "/images/thumbnails/p2.svg",
+      "driveId": "1YCIuBh55hZPWBsfoaLRXjkMKmZYzOvA2"
+    },
+    {
+      "id": "p3",
+      "title": "Sourov X Shuvra",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:55",
+      "thumbnail": "/images/thumbnails/p3.svg",
+      "driveId": "1f6fLoDwAn9qxvnvfbG6g22ganThNT5da"
+    },
+    {
+      "id": "p4",
+      "title": "Sourov X Shuvra",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "01:48",
+      "thumbnail": "/images/thumbnails/p3.svg",
+      "driveId": "11TbVz1Dd3tgCNdMJh72WGkXttYIHJmJm"
+    },
+    {
+      "id": "p5",
+      "title": "Oyshi Post Wedding",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "05:24",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1lLq5-v6gpmaAaJ0QM01ydGA2he8oCp3n"
+    },
+    {
+      "id": "p6",
+      "title": "Shahoshi",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:04",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "14obo3mnaK4hDMF1TJDIKUshsrzjKfQs5"
+    },
+    {
+      "id": "p7",
+      "title": "Ruponti",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:07",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1RxMwbyMlFImEh7SPac1T6mrNuMu3ArqS"
+    },
+    {
+      "id": "p8",
+      "title": "Oyshi's Holud",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "01:25",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1JQ8ZOJLCzEJmI2Hm-ukQC3lZxa8XNhLe"
+    },
+    {
+      "id": "p9",
+      "title": "Nabia",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:12",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1wjQH8Er8BOPDbszbGGhTaxQ8QVR8mj8s"
+    },
+    {
+      "id": "p10",
+      "title": "Mahadi",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "01:53",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1ueluy_efuGT67TKNDadCXaFATlwpIUUA"
+    },
+    {
+      "id": "p11",
+      "title": "Anis X Sadia",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:02",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1qOrPHpaOqy1fSU8tBms0qcMYkoZmeMMB"
+    },
+    {
+      "id": "p12",
+      "title": "Nodi X Rahi",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "01:43",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1MfV24J6pndjwks-l_HTDMYU_2nHQc4Gm"
+    },
+    {
+      "id": "p13",
+      "title": "Sobuj X Youlin",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "03:15",
+      "thumbnail": "/images/thumbnails/p4.svg",
+      "driveId": "1_TG79Tg1tad0TyBxgkNoYfGoBdb4pLLe"
+    },
+    {
+      "id": "p14",
+      "title": "Sadi",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:08",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1KsUJQf8wd94E1MLdmJVgsmdhnp9wvQS3"
+    },
+    {
+      "id": "p15",
+      "title": "Sazzad X Maria",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:24",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1c6uDvJ825HlkBvX2zTOve__Gx5GGqvup"
+    },
+    {
+      "id": "p16",
+      "title": "Tasin",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:42",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1AyCnw7Bk4WlTEwXBnuR00P-BrHmPj790"
+    },
+    {
+      "id": "p17",
+      "title": "Sifat's Holud",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "01:43",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1nMM97gEGn-mTKMzGxx1FycCXIntFTirC"
+    },
+    {
+      "id": "p18",
+      "title": "Sorna",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "01:56",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "1MNFVmcFf_xj-KbmQHKeFLowqCqfj1CmZ"
+    },
+    {
+      "id": "p19",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p20",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p21",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p22",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p23",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p24",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p25",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p26",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p27",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p28",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p29",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    },
+    {
+      "id": "p30",
+      "title": "Loading",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "00:00",
+      "thumbnail": "/images/thumbnails/p5.svg",
+      "driveId": "drive id"
+    }
+  
+  ],
+  "education": [
+    {
+      "id": "e1",
+      "institution": "Bangladesh University of Business & Technology",
+      "period": "",
+      "status": "complete"
+    },
+    {
+      "id": "e2",
+      "institution": "Shaheed Begum Sheikh Fazilatunnesa Mujib Govt. College",
+      "period": "May 2018 \u2013 Dec 2020",
+      "status": "complete"
+    },
+    {
+      "id": "e3",
+      "institution": "JDM Govt. High School",
+      "period": "Feb 2012 \u2013 May 2017",
+      "status": "complete"
+    },
+    {
+      "id": "e4",
+      "institution": "Dhanbari Collegiate Model School",
+      "period": "Dec 2010 \u2013 Dec 2011",
+      "status": "complete"
+    }
+  ],
+  "gallery": {
+    "show": false,
+    "eyebrow": "Gallery",
+    "heading": "Behind the frame",
+    "photos": [
+      { "id": "g1", "src": "/images/profile.png", "caption": "On location" },
+      { "id": "g2", "src": "/images/hero-cover.png", "caption": "Between takes" },
+      { "id": "g3", "src": "/images/gallery/g3.svg", "caption": "Edit bay, late night" },
+      { "id": "g4", "src": "/images/gallery/g4.svg", "caption": "Color pass" },
+      { "id": "g5", "src": "/images/gallery/g5.svg", "caption": "Sound design" },
+      { "id": "g6", "src": "/images/gallery/g6.svg", "caption": "Client review" }
+    ]
+  },
+  "team": {
+    "show": false,
+    "eyebrow": "Team",
+    "heading": "Who's behind the edits",
+    "members": [
+      {
+        "id": "t1",
+        "name": "Jahidul Islam Jannat",
+        "image": "/images/profile.png",
+        "skill": "Lead Editor & Colorist"
+      },
+      {
+        "id": "t2",
+        "name": "Add a teammate",
+        "image": "/images/team/placeholder.svg",
+        "skill": "Sound Design"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "heading": "Let's create something amazing together.",
+    "sms": {
+      "number": "+8801518610808",
+      "label": "Send via SMS"
+    },
+    "whatsapp": {
+      "number": "8801518610808",
+      "label": "Send via WhatsApp"
+    },
+    "email": {
+      "address": "onlinejahidul333@gmail.com",
+      "label": "Send via Email"
+    }
+  },
+  "social": [
+    { "id": "facebook", "label": "Facebook", "icon": "fa-facebook-f", "url": "https://www.facebook.com/jahidul.0808" },
+    { "id": "linkedin", "label": "LinkedIn", "icon": "fa-linkedin-in", "url": "https://www.linkedin.com/in/jahidul-islam-jannat-26a71027a" }
+  ],
+  "developer": {
+    "label": "Developed By",
+    "name": "Likhon.com.bd",
+    "url": "https://likhon.com.bd"
+  },
+  "nav": [
+    { "label": "Home", "target": "hero" },
+    { "label": "About", "target": "about" },
+    { "label": "Skills", "target": "skills" },
+    { "label": "Projects", "target": "portfolio" },
+    { "label": "Education", "target": "education" },
+    { "label": "Contact", "target": "contact" }
+  ]
+}

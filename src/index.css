@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #0B1130;
+  --navy-glow: #1C2358;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply font-body text-ink antialiased;
+  background-color: var(--navy);
+  background-image: radial-gradient(circle at 15% -10%, var(--navy-glow) 0%, var(--navy) 55%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button, a {
+  touch-action: manipulation;
+}
+
+::selection {
+  @apply bg-blue-soft/30 text-ink;
+}
+
+/* Subtle film-grain, applied as a fixed full-viewport overlay in App.jsx */
+.grain-overlay {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.4'/%3E%3C/svg%3E");
+  mix-blend-mode: overlay;
+}
+
+/* Animated gradient text for signature headline phrases */
+.gradient-text {
+  background: linear-gradient(90deg, #7BB4E8, #63A0FF, #A9C9F5, #7BB4E8);
+  background-size: 300% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: gradientPan 6s ease infinite;
+}
+
+/* Custom scrollbar - subtle, editorial */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #F4F9FC;
+}
+::-webkit-scrollbar-thumb {
+  background: #B9D3EA;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #6FA8DC;
+}
+
+/* Timecode ticking readout used across the site */
+.timecode {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.08em;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
