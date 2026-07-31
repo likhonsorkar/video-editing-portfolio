@@ -276,6 +276,33 @@
       "duration": "03:31",
       "thumbnail": "/images/thumbnails/Civil SPI-25.jpg",
       "driveId": "1Hddv6dk7FDRkQiU32fLApmFM3JJsI82w"
+    },
+    {
+      "id": "p25",
+      "title": "Mesba X Kamini",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "03:31",
+      "thumbnail": "/images/thumbnails/MesbaXKamini.jpg",
+      "driveId": "18sybs6PgkJ1A6joKMV70OVr8_wXq0GQt"
+    },
+    {
+      "id": "p26",
+      "title": "Mahim Wedding",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "02:43",
+      "thumbnail": "/images/thumbnails/Mahim wedding.jpg",
+      "driveId": "120w0RqayiIofcCbztQ63PoXEfrcPSxR7"
+    },
+    {
+      "id": "p27",
+      "title": "Mahim Reception",
+      "role": "Editing, Color Grading",
+      "category": "Wedding story",
+      "duration": "03:30",
+      "thumbnail": "/images/thumbnails/Mahim Reception.jpg",
+      "driveId": "1-GOHHHIeepk3CWnKSmQbVXRY52byBpgd"
     }
   ],
   "education": [

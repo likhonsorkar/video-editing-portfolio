@@ -48,16 +48,24 @@ export default function Footer({ profile, social, developer }) {
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-ink-faint">
           <p>&copy; {new Date().getFullYear()} {profile.domain} — All Rights Reserved.</p>
           {developer && (
+            // <p>
+            //   {developer.label}{' '}
+            //   <a
+            //     href={developer.url}
+            //     target="_blank"
+            //     rel="noopener noreferrer"
+            //     className="text-blue-soft hover:text-blue-bright font-medium transition-colors"
+            //   >
+            //     {developer.name}
+            //   </a>
+            // </p>
             <p>
-              {developer.label}{' '}
-              <a
-                href={developer.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-soft hover:text-blue-bright font-medium transition-colors"
-              >
-                {developer.name}
-              </a>
+              Developed By {' '}
+              <a 
+               target="_blank"
+               rel="noopener noreferrer"
+               className="text-blue-soft hover:text-blue-bright font-medium transition-colors"
+               href="https://likhon.com.bd">Likhon.com.bd</a>
             </p>
           )}
         </div>
