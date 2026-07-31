@@ -8,8 +8,8 @@
     "phoneDisplay": "+880 1518 610 808",
     "email": "onlinejahidul333@gmail.com",
     "bloodGroup": "B+",
-    "profileImage": "/images/profile.png",
-    "coverImage": "/images/hero-cover.png"
+    "profileImage": "/images/profile.webp",
+    "coverImage": "/images/hero-cover.webp"
   },
   "hero": {
     "headlinePrefix": "Through the lens:",
@@ -67,7 +67,7 @@
       "role": "Motion Graphics",
       "category": "Commercial Ads",
       "duration": "00:15",
-      "thumbnail": "/images/thumbnails/apple.jpg",
+      "thumbnail": "/images/thumbnails/apple.webp",
       "driveId": "1xxWiMJA11dTRrpwKfHacI7FSaiAkRga0"
     },
     {
@@ -76,7 +76,7 @@
       "role": "Motion Graphics",
       "category": "Commercial Ads",
       "duration": "00:20",
-      "thumbnail": "/images/thumbnails/Starbucks.jpg",
+      "thumbnail": "/images/thumbnails/Starbucks.webp",
       "driveId": "1YCIuBh55hZPWBsfoaLRXjkMKmZYzOvA2"
     },
     {
@@ -85,7 +85,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:55",
-      "thumbnail": "/images/thumbnails/Sourov X Suvra Wedding.jpg",
+      "thumbnail": "/images/thumbnails/Sourov X Suvra Wedding.webp",
       "driveId": "1f6fLoDwAn9qxvnvfbG6g22ganThNT5da"
     },
     {
@@ -94,7 +94,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:48",
-      "thumbnail": "/images/thumbnails/Sourov X Suvra.jpg",
+      "thumbnail": "/images/thumbnails/Sourov X Suvra.webp",
       "driveId": "11TbVz1Dd3tgCNdMJh72WGkXttYIHJmJm"
     },
     {
@@ -103,7 +103,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "05:24",
-      "thumbnail": "/images/thumbnails/Oyshi Post wedding.jpg",
+      "thumbnail": "/images/thumbnails/Oyshi Post wedding.webp",
       "driveId": "1lLq5-v6gpmaAaJ0QM01ydGA2he8oCp3n"
     },
     {
@@ -112,7 +112,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:04",
-      "thumbnail": "/images/thumbnails/Sahoshi.jpg",
+      "thumbnail": "/images/thumbnails/Sahoshi.webp",
       "driveId": "14obo3mnaK4hDMF1TJDIKUshsrzjKfQs5"
     },
     {
@@ -121,7 +121,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:07",
-      "thumbnail": "/images/thumbnails/Ruponti.jpg",
+      "thumbnail": "/images/thumbnails/Ruponti.webp",
       "driveId": "1RxMwbyMlFImEh7SPac1T6mrNuMu3ArqS"
     },
     {
@@ -130,7 +130,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:25",
-      "thumbnail": "/images/thumbnails/Oyshi Holud.jpg",
+      "thumbnail": "/images/thumbnails/Oyshi Holud.webp",
       "driveId": "1JQ8ZOJLCzEJmI2Hm-ukQC3lZxa8XNhLe"
     },
     {
@@ -139,7 +139,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:12",
-      "thumbnail": "/images/thumbnails/Nabia.jpg",
+      "thumbnail": "/images/thumbnails/Nabia.webp",
       "driveId": "1wjQH8Er8BOPDbszbGGhTaxQ8QVR8mj8s"
     },
     {
@@ -148,7 +148,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:53",
-      "thumbnail": "/images/thumbnails/Mahadi.jpg",
+      "thumbnail": "/images/thumbnails/Mahadi.webp",
       "driveId": "1ueluy_efuGT67TKNDadCXaFATlwpIUUA"
     },
     {
@@ -157,7 +157,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:02",
-      "thumbnail": "/images/thumbnails/Anis X Sadia.jpg",
+      "thumbnail": "/images/thumbnails/Anis X Sadia.webp",
       "driveId": "1qOrPHpaOqy1fSU8tBms0qcMYkoZmeMMB"
     },
     {
@@ -166,7 +166,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:43",
-      "thumbnail": "/images/thumbnails/Nodi X Rahi.jpg",
+      "thumbnail": "/images/thumbnails/Nodi X Rahi.webp",
       "driveId": "1MfV24J6pndjwks-l_HTDMYU_2nHQc4Gm"
     },
     {
@@ -175,7 +175,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "03:15",
-      "thumbnail": "/images/thumbnails/Sobuj X Youlin .jpg",
+      "thumbnail": "/images/thumbnails/Sobuj X Youlin .webp",
       "driveId": "1_TG79Tg1tad0TyBxgkNoYfGoBdb4pLLe"
     },
     {
@@ -184,7 +184,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:08",
-      "thumbnail": "/images/thumbnails/Sadi.jpg",
+      "thumbnail": "/images/thumbnails/Sadi.webp",
       "driveId": "1KsUJQf8wd94E1MLdmJVgsmdhnp9wvQS3"
     },
     {
@@ -193,7 +193,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:24",
-      "thumbnail": "/images/thumbnails/Sazzad X Maria.jpg",
+      "thumbnail": "/images/thumbnails/Sazzad X Maria.webp",
       "driveId": "1c6uDvJ825HlkBvX2zTOve__Gx5GGqvup"
     },
     {
@@ -202,7 +202,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:42",
-      "thumbnail": "/images/thumbnails/Tasin.jpg",
+      "thumbnail": "/images/thumbnails/Tasin.webp",
       "driveId": "1AyCnw7Bk4WlTEwXBnuR00P-BrHmPj790"
     },
     {
@@ -211,7 +211,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:43",
-      "thumbnail": "/images/thumbnails/Shifat.jpg",
+      "thumbnail": "/images/thumbnails/Shifat.webp",
       "driveId": "1nMM97gEGn-mTKMzGxx1FycCXIntFTirC"
     },
     {
@@ -220,7 +220,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "01:56",
-      "thumbnail": "/images/thumbnails/Sorna.jpg",
+      "thumbnail": "/images/thumbnails/Sorna.webp",
       "driveId": "1MNFVmcFf_xj-KbmQHKeFLowqCqfj1CmZ"
     },
     {
@@ -229,7 +229,7 @@
       "role": "Editing, Color Grading, story",
       "category": "Action video",
       "duration": "02:39",
-      "thumbnail": "/images/thumbnails/VikingSquad.jpg",
+      "thumbnail": "/images/thumbnails/VikingSquad.webp",
       "driveId": "1Y-ktev2MRRfNFu4ilUuDOxsocPLKHIr6"
     },
     {
@@ -238,7 +238,7 @@
       "role": "Editing, Color Grading, Cinematography",
       "category": "Cinematgraphy",
       "duration": "01:13",
-      "thumbnail": "/images/thumbnails/Roide aila.jpg",
+      "thumbnail": "/images/thumbnails/Roide aila.webp",
       "driveId": "1dRIy8JkUl-enSTTGHqndhkBl12fPQxfl"
     },
     {
@@ -247,7 +247,7 @@
       "role": "Editing, Color Grading, Cinematography",
       "category": "Reels",
       "duration": "01:13",
-      "thumbnail": "/images/thumbnails/tat.jpg",
+      "thumbnail": "/images/thumbnails/tat.webp",
       "driveId": "1z8UfK0nafvlwCzJSje03156Ywythnkqf"
     },
     {
@@ -256,7 +256,7 @@
       "role": "Editing, Color Grading",
       "category": "Reels",
       "duration": "01:00",
-      "thumbnail": "/images/thumbnails/Grambangla.jpg",
+      "thumbnail": "/images/thumbnails/Grambangla.webp",
       "driveId": "1-8MfRec19TZi3_kI4Vgy9FIp47bfMNiC"
     },
     {
@@ -265,7 +265,7 @@
       "role": "Editing, Color Grading",
       "category": "Rag Day",
       "duration": "08:36",
-      "thumbnail": "/images/thumbnails/SPI-25.jpg",
+      "thumbnail": "/images/thumbnails/SPI-25.webp",
       "driveId": "1GpHre1tWuEjaq5JCv4vkqF4CH-CZ-0Q6"
     },
     {
@@ -274,7 +274,7 @@
       "role": "Editing, Color Grading",
       "category": "Rag Day",
       "duration": "03:31",
-      "thumbnail": "/images/thumbnails/Civil SPI-25.jpg",
+      "thumbnail": "/images/thumbnails/Civil SPI-25.webp",
       "driveId": "1Hddv6dk7FDRkQiU32fLApmFM3JJsI82w"
     },
     {
@@ -283,7 +283,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "03:31",
-      "thumbnail": "/images/thumbnails/MesbaXKamini.jpg",
+      "thumbnail": "/images/thumbnails/MesbaXKamini.webp",
       "driveId": "18sybs6PgkJ1A6joKMV70OVr8_wXq0GQt"
     },
     {
@@ -292,7 +292,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "02:43",
-      "thumbnail": "/images/thumbnails/Mahim wedding.jpg",
+      "thumbnail": "/images/thumbnails/Mahim wedding.webp",
       "driveId": "120w0RqayiIofcCbztQ63PoXEfrcPSxR7"
     },
     {
@@ -301,7 +301,7 @@
       "role": "Editing, Color Grading",
       "category": "Wedding story",
       "duration": "03:30",
-      "thumbnail": "/images/thumbnails/Mahim Reception.jpg",
+      "thumbnail": "/images/thumbnails/Mahim Reception.webp",
       "driveId": "1-GOHHHIeepk3CWnKSmQbVXRY52byBpgd"
     }
   ],
